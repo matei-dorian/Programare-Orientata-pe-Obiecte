@@ -1,0 +1,618 @@
+The Godfather
+1972
+Francis Ford Coppola
+D
+10500
+600000
+3
+Marlon Brando
+Al Pacino
+James Caan
+3
+N
+H
+A
+4
+8.5
+9.7
+8.8
+9.5
+8.45
+100
+-
+The Dark Knight
+2008
+Christopher Nolan
+A
+9120
+550000
+4
+Christian Bale
+Heath Ledger
+Aaron Eckhart
+Michael Caine
+1
+H
+3
+10
+7
+8
+7.2
+3459
+-
+12 Angry Man
+1957
+Sidney Lumet
+D
+5760
+543200
+3
+Henry Fonda
+Lee J. Cobb
+Martin Balsam
+5
+Y
+A
+P
+H
+N
+2
+10
+9
+9.5
+105
+-
+Schindler's List
+1993
+Steven Spielberg
+D
+11700
+453020
+2
+Liam Neeson 
+Ralph Fiennes
+1
+D
+10
+7
+8.6
+10
+10
+4.5
+3
+9.5
+9.5
+3
+10
+8.2
+10002
+-
+Pulp Fiction
+1994
+Quentin Tarantino
+A
+9240
+100500
+5
+John Travolta
+Uma Thruman
+Samuel L.Jackson
+Frank Whaley
+Bruce Willis
+2
+P
+H
+3
+10
+7.8
+8.9
+8.7
+3423
+-
+Inception
+2010
+Christopher Nolan
+A
+8880
+120030
+6
+Leonardo DiCaprio
+Joseph Gordon-Levitt
+Elliot Page
+Tom Hardy
+Marion Cotillard
+Dileep Rao
+3
+Y
+P
+N
+2
+10
+10
+9.4
+22334
+-
+The Matrix
+1999
+Lana Wachowski
+A
+8160
+890009
+2
+Keanu Reeves
+Carrie-Anne Moss
+1
+N
+5
+10
+7
+8
+10
+9.5
+8.5
+670
+-
+Interstellar
+2014
+Christopher Nolan
+D
+10140
+100305
+3
+Ellen Burstyn
+Matthew McConaughey
+Mackenzie Foy
+1
+H
+6
+10
+9.3
+8.5
+7
+10
+9.2
+9
+100
+-
+Back to the Future
+1985
+Robert Zemeckis
+C
+7200
+3000
+1
+Michael J. Fox
+2
+Y
+P
+4
+6
+8
+7
+7.4
+7.1
+54
+-
+Mr. Bean
+1990
+Rowan Atkinson
+C
+1500
+200
+1
+Rowan Atkinson
+3
+H
+N
+P
+10
+8
+5.5
+6.7
+10
+3.3
+10
+5.2
+5.7
+7.7
+4
+6.6
+1500
+-
+Doctor Strange
+2016
+Scott Derrickson
+A
+6900
+300320
+3
+Benedict CumberBatch
+Rachel McAdams
+Tilda Swinton
+1
+D
+4
+8.7
+6.8
+7.9
+9.5
+8.225
+122
+-
+Midsommar
+2019
+Ari Aster
+H
+8880
+12304
+4
+Florence Pugh
+Jack Reynor
+Will Poulter
+Archie Madekwe
+1
+P
+6
+5.6
+6.8
+6.9
+8.2
+7.4
+9
+7.31667
+12
+-
+A Quiet Place
+2018
+John Krasinski
+H
+5400
+123004
+2
+Emily Blunt
+John Krasinski
+1
+H
+5
+7.8
+8.9
+7.4
+8
+9
+8.22
+56
+-
+Hereditary
+2018
+Ari Aster
+H
+7620
+23346
+3
+Toni Collette
+Milly Shapiro
+Gabriel Byrne
+3
+P
+Y
+A
+7
+9.3
+10
+7.8
+8.5
+8.5
+9
+6.9
+8.57143
+345
+-
+The Shining
+1980
+Stanley Kubrick
+H
+8760
+454506
+5
+Jack Nicholson
+Shelley Duvall
+Danny Lloyd
+Scatman Crothers
+Barry Nelson
+2
+A
+P
+5
+10
+10
+8.4
+9.2
+8.7
+9.26
+3000
+-
+Split
+2016
+M. Night Shyamalan
+T
+8760
+56756
+1
+James McAvoy
+3
+Y
+P
+A
+2
+8.7
+6.9
+7.8
+34
+-
+Dracula
+1992
+Francis Ford Coppola
+H
+7680
+23004
+3
+Gary Oldman
+Winona Ryder
+Anthony Hopkins
+2
+N
+Y
+6
+9.2
+9.1
+5.8
+7.4
+8.1
+7.2
+7.8
+789
+-
+Parasite
+2019
+Bong Joon Ho
+T
+7920
+789009
+2
+Kang-ho Song
+Woo-sik Choi
+1
+A
+4
+9.2
+7.8
+7.9
+8.3
+8.3
+234
+-
+Sightless
+2020
+Cooper Karl
+T
+5940
+89006
+4
+Madelaine Petsch
+Deniz Akdeniz
+Alexander Koch
+Matthew Yang King
+2
+N
+P
+3
+10
+8.6
+9.3
+9.3
+907
+-
+Red Dot
+2021
+Alain Darborg
+T
+5760
+999943
+2
+Nanna Blondell
+Johannes Kuhnke
+1
+D
+4
+9.2
+8.3
+7.8
+8.5
+8.45
+456
+-
+Work It
+2020
+Laura Terruso
+C
+5580
+45399
+3
+Keiynan Lonsdale
+Liza Koshy
+Alyssa Trask
+2
+N
+H
+3
+10
+7.2
+8.9
+8.7
+303
+-
+The Sleepover
+2020
+Trish Sie
+C
+6000
+300
+1
+Sadie Stanley
+2
+D
+P
+1
+7.6
+7.6
+96
+-
+365 Days
+2020
+Barbara Bialowas
+R
+6840
+23999
+2
+Anna Maria Sieklucka
+Michele Morrone
+1
+N
+3
+6.7
+9.3
+7.9
+7.96667
+1000
+-
+Titanic
+1997
+James Cameron
+R
+11640
+345006
+3
+Leonardo DiCaprio
+Kate Winslet
+Billy Zane
+4
+D
+A
+Y
+P
+7
+8.9
+9.3
+7.9
+8.5
+9.2
+7.3
+8.6
+8.52857
+2005
+-
+Love Happens
+2009
+Brandon Camp
+R
+6540
+99995
+2
+Aaron Eckhart
+Jennifer Aniston
+1
+P
+2
+10
+7.3
+8.65
+1125
+-
+Pride & Prejudice
+2005
+Joe Wright
+R
+7740
+587
+3
+Keira Knightley
+Jena Malone
+Donald Sutherland
+1
+H
+3
+10
+5.6
+6.7
+7.43333
+904
+-
+Seaspiracy
+2021
+Ali Tabrizi
+O
+5340
+990
+1
+Ali Tabrizi
+1
+D
+3
+10
+10
+7.8
+9.26667
+3002
+-
+The Social Dilemma
+2020
+Jeff Orlowski
+O
+5640
+56799
+2
+Tristan Harris
+Jeff Seibert
+1
+N
+4
+10
+10
+6.7
+8.6
+8.825
+4000
+-
+What the Health
+2017
+Kip Andersen
+O
+5820
+45009
+2
+Kip Andersen
+Keegan Kuhn
+1
+N
+1
+8.2
+8.2
+3900
+-
+Behind the Curve
+2018
+Daniel J. Clark
+O
+5760
+99989
+1
+Mark K. Sargent
+2
+D
+P
+2
+10
+5
+7.5
+902
+-
